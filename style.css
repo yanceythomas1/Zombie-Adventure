@@ -1,8 +1,13 @@
 
 body {
-  background-image: url("http://nintendoenthusiast.com/wp-content/uploads/2012/05/Zombies-on-Nintendo.png");
+  background-image: url("http://www.zero1gaming.com/wp-content/uploads/2014/01/zombies-hd-31287.jpg");
     text-align: center;
-  color: white;
+  color: gold;
+  font-size: 1.5em;
+  font-size: 190%%;
+  font-weight: bold;
+  background-size:cover;
+ 
   
 }
 
@@ -10,4 +15,8 @@ body {
   width: 90%;
   margin: 0 auto;
   
+}
+
+a {
+  color: gold;
 }
