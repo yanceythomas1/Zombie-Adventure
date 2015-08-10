@@ -1,4 +1,4 @@
 require 'sinatra'
-require './index.erb'
+require '.Zombie-Adventure/application_controller.rb'
 
 run MyApp
