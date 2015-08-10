@@ -1,0 +1,1 @@
+require 'Zombie-Adventure/home.erb'
