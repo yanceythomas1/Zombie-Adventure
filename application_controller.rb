@@ -24,4 +24,7 @@ end
 get '/go_to_the_hospital.html' do
   erb :go_to_the_hospital
 end
+get '/index.html' do
+  erb :index
+end
 end
