@@ -27,4 +27,13 @@ end
 get '/index.html' do
   erb :index
 end
+get '/kill_your_brother.html' do
+  erb :kill_your_brother
+end
+get '/kill_your_brother2.html' do
+  erb :kill_your_brother2
+end
+get '/let_your_brother_turn.html' do
+  erb :let_your_brother_turn
+end
 end
