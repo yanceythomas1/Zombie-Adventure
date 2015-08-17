@@ -5,7 +5,9 @@ class MyApp < Sinatra::Base
   get '/' do
     erb :index
   end
-
+  get '/brothers_dilemma.html' do
+    erb :brothers_dilemma
+  end
 get '/stay_home.html' do
   erb :stay_home
 end
